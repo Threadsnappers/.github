@@ -3,6 +3,8 @@
 We are a couple of students who are really enthusiastic about tech and creating awesome new stuff.
 
 ### 💻 Open Source
+- Solutions to Advent of Code using Python
+  - [Github Repo](https://github.com/Threadsnappers/advent-of-code-python)
 - Solutions to Advent of Code using Kotlin
   - [Github Repo](https://github.com/Threadsnappers/advent-of-code-kotlin)
 - Enquesta 2022 Question Archive
